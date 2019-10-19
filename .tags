@@ -1,0 +1,41 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	e-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/befcb888/
+KList	数据结构\单向链表.py	/^class KList():$/;"	kind:c	line:46	inherits:	access:public
+KList.__get_node	数据结构\单向链表.py	/^    def __get_node(self, n) -> KNote:$/;"	kind:m	line:147	class:KList	file:	access:private	signature:(self, n)
+KList.__init__	数据结构\单向链表.py	/^    def __init__(self):$/;"	kind:m	line:47	class:KList	access:public	signature:(self)
+KList.__str__	数据结构\单向链表.py	/^    def __str__(self):$/;"	kind:m	line:220	class:KList	access:public	signature:(self)
+KList.append	数据结构\单向链表.py	/^    def append(self, value):$/;"	kind:m	line:82	class:KList	access:public	signature:(self, value)
+KList.delete	数据结构\单向链表.py	/^    def delete(self, n):$/;"	kind:m	line:171	class:KList	access:public	signature:(self, n)
+KList.insert	数据结构\单向链表.py	/^    def insert(self, n, value):$/;"	kind:m	line:91	class:KList	access:public	signature:(self, n, value)
+KList.is_empty	数据结构\单向链表.py	/^    def is_empty(self):$/;"	kind:m	line:54	class:KList	access:public	signature:(self)
+KList.len	数据结构\单向链表.py	/^    def len(self):$/;"	kind:m	line:64	class:KList	access:public	signature:(self)
+KList.prepend	数据结构\单向链表.py	/^    def prepend(self, value):$/;"	kind:m	line:72	class:KList	access:public	signature:(self, value)
+KList.search	数据结构\单向链表.py	/^    def search(self, value):$/;"	kind:m	line:207	class:KList	access:public	signature:(self, value)
+KMP_matching	算法\查找\字符串查找.py	/^def KMP_matching(t:str,p:str):$/;"	kind:f	line:49	access:public	signature:(t:str,p:str)
+KNote	数据结构\单向链表.py	/^class KNote():$/;"	kind:c	line:25	inherits:	access:public
+KNote.__init__	数据结构\单向链表.py	/^    def __init__(self, value, pre=None, next_=None):$/;"	kind:m	line:30	class:KNote	access:public	signature:(self, value, pre=None, next_=None)
+__get_node	数据结构\单向链表.py	/^    def __get_node(self, n) -> KNote:$/;"	kind:m	line:147	class:KList	file:	access:private	signature:(self, n)
+__init__	数据结构\单向链表.py	/^    def __init__(self):$/;"	kind:m	line:47	class:KList	access:public	signature:(self)
+__init__	数据结构\单向链表.py	/^    def __init__(self, value, pre=None, next_=None):$/;"	kind:m	line:30	class:KNote	access:public	signature:(self, value, pre=None, next_=None)
+__str__	数据结构\单向链表.py	/^    def __str__(self):$/;"	kind:m	line:220	class:KList	access:public	signature:(self)
+a	算法\排序\快速排序.py	/^    a = [2, 3, 5, 7, 1, 4, 6, 15, 5, 2, 7, 9, 10, 15, 9, 17, 12]$/;"	kind:v	line:43	access:public
+append	数据结构\单向链表.py	/^    def append(self, value):$/;"	kind:m	line:82	class:KList	access:public	signature:(self, value)
+delete	数据结构\单向链表.py	/^    def delete(self, n):$/;"	kind:m	line:171	class:KList	access:public	signature:(self, n)
+insert	数据结构\单向链表.py	/^    def insert(self, n, value):$/;"	kind:m	line:91	class:KList	access:public	signature:(self, n, value)
+is_empty	数据结构\单向链表.py	/^    def is_empty(self):$/;"	kind:m	line:54	class:KList	access:public	signature:(self)
+len	数据结构\单向链表.py	/^    def len(self):$/;"	kind:m	line:64	class:KList	access:public	signature:(self)
+lst	数据结构\单向链表.py	/^    lst = KList()$/;"	kind:v	line:232	access:public
+native_matching	算法\查找\字符串查找.py	/^def native_matching(t: str, p: str):$/;"	kind:f	line:14	access:public	signature:(t: str, p: str)
+p	算法\查找\字符串查找.py	/^    p = "faep"$/;"	kind:v	line:62	access:public
+p	算法\查找\字符串查找.py	/^    p = "faep"$/;"	kind:v	line:63	access:public
+prepend	数据结构\单向链表.py	/^    def prepend(self, value):$/;"	kind:m	line:72	class:KList	access:public	signature:(self, value)
+python_algorithm	README.md	/^# python_algorithm$/;"	kind:c	line:1
+quicksort	算法\排序\快速排序.py	/^def quicksort(lst: list):$/;"	kind:f	line:14	access:public	signature:(lst: list)
+search	数据结构\单向链表.py	/^    def search(self, value):$/;"	kind:m	line:207	class:KList	access:public	signature:(self, value)
+t	算法\查找\字符串查找.py	/^    t = "fjoeapfaepgjrenfpwia"$/;"	kind:v	line:61	access:public
+t	算法\查找\字符串查找.py	/^    t = "fjoeapfaepgjrenfpwia"$/;"	kind:v	line:62	access:public

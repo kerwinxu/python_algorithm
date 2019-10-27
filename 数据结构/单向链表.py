@@ -56,6 +56,8 @@ class KList():
         判断为空
             :param self: 自身
         """
+        # 我还是直接判断长度吧
+        return self.len() == 0
         if self._head is None:
             return True
         return False
@@ -203,6 +205,9 @@ class KList():
             _pre_note.next = _next_note
             _next_note.pre = _pre_note
         self._len = self._len-1
+        # 这里判断是否已经为空了
+        if self.len() == 0 :
+            self._head = self._tail = None
 
     def search(self, value):
         """

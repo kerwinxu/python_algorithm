@@ -29,7 +29,7 @@ class KStack(单向链表.KList):
             :param self: 
         """
         # 只是简单的调用父类的构造方法。
-        super(KStack,self).__init__()
+        super(KStack, self).__init__()
         pass
 
     def is_empty(self):
@@ -37,7 +37,7 @@ class KStack(单向链表.KList):
         判断是否为空
             :param self: 
         """
-        return super(KStack,self).is_empty()
+        return super(KStack, self).is_empty()
 
     def push(self, value):
         """

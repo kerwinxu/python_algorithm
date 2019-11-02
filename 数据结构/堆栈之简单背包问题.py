@@ -44,5 +44,5 @@ def knap(weight, wlist, n):
 
 
 if __name__ == "__main__":
-    knap(10, [1, 2, 3, 4, 5, 6, 7, 8], 8)
+    knap(18, [1, 2, 3, 4, 5, 6, 7, 8], 8)
     pass

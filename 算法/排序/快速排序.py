@@ -41,4 +41,6 @@ def quicksort(lst: list):
 
 if __name__ == "__main__":
     a = [2, 3, 5, 7, 1, 4, 6, 15, 5, 2, 7, 9, 10, 15, 9, 17, 12]
-    print(quicksort(a))
+    print(quicksort(a))   
+    
+    

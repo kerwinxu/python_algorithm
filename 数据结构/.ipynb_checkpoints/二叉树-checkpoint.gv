@@ -1,0 +1,22 @@
+digraph "二叉树" {
+	B
+	A -> B
+	J
+	B -> J
+	K
+	B -> K
+	C
+	A -> C
+	D
+	C -> D
+	F
+	D -> F
+	G
+	D -> G
+	E
+	C -> E
+	I
+	E -> I
+	H
+	E -> H
+}
